@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @polosnow
-- 📫 How to reach me ...
-- 👀 The blog is different  
-blog in Github:https://polosnow.github.io/zgyblog/  
-blog in Gitee: https://aylydzgy.gitee.io/zgyblog/
-- 👀 The book is same  
-booK in Github:https://polosnow.github.io/zgybook/  
-booK in Gitee: https://aylydzgy.gitee.io/zgybook/  
+👋 Hi, I’m @Polo Snow
+📫 How to reach me ...
+For my blog.The two is the different.
+my delayed blog in github: https://polosnow.github.io/zgyblog/  
+my updated blog in gitee : https://aylydzgy.gitee.io/zgyblog/
+For my book.The two is the same.
+my book in github: https://polosnow.github.io/zgybook/  
+my book in gitee : https://aylydzgy.gitee.io/zgybook/
+Please move to the gitee to get the latest.
+
 
 
 <!-- - 👀 I’m interested in ...
